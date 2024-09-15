@@ -7,3 +7,6 @@ tags:
   - QA
   - fixture
   - test
+_self:
+  _entity: "github.com/AmadlaOrg/QAFixturesEntityPseudoVersion@latest"
+  name: Random Name
