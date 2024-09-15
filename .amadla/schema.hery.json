@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "id": "https://raw.githubusercontent.com/AmadlaOrg/QAFixturesEntityPseudoVersion/master/.amadla/schema.json",
+  "id": "urn:hery:amadla:AmadlaOrg:QAFixturesEntityPseudoVersion:latest",
   "title": "Amadla Entity Pseudo Version Configuration",
   "description": "Defines a demo configuration file.",
   "type": "object",
