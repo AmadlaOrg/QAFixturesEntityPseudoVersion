@@ -1,12 +1,13 @@
 ---
-_entity: "github.com/AmadlaOrg/Entity@latest"
-name: QAFixturesEntityPseudoVersion
-description: Entity Pseudo Version definitions.
-category: QA
-tags:
-  - QA
-  - fixture
-  - test
-_self:
-  _entity: "github.com/AmadlaOrg/QAFixturesEntityPseudoVersion@latest"
+_meta:
+  _entity: github.com/AmadlaOrg/Entity@latest
+  _body:
+    name: QAFixturesEntityPseudoVersion
+    description: Entity Pseudo Version definitions.
+    category: QA
+    tags:
+      - QA
+      - fixture
+      - test
+_body:
   name: Random Name
